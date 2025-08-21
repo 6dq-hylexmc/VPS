@@ -1,7 +1,7 @@
 ```
-git clone https://github.com/mrsdbd1/LP-VPS
+git clone https://github.com/6dq-hylexmc/VPS.git
 ```
-```cd LP-VPS```
+```cd VPS```
 
 ```apt install docker.io && apt install pip && apt install pip && apt install systemctl -y```
 
@@ -18,3 +18,4 @@ docker build -t ubuntu-22.04-with-tmate .
 ```
 python3 v2.py
 ```
+
